@@ -13,5 +13,8 @@ public class App {
         System.out.println("Texto original: "+texto);
         System.out.println("Texto codificado: "+codificado);
         System.out.println("Texto decodificado: "+decodificado);
+
+        // Chama o método para imprimir "weekki world"
+        testeBranch.printWeekkiWorld();
     }
 }
